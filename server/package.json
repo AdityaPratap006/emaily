@@ -1,0 +1,14 @@
+{
+  "name": "emaily-rest-api",
+  "version": "1.0.0",
+  "description": "The RESTful api for emaily app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Pratap",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
